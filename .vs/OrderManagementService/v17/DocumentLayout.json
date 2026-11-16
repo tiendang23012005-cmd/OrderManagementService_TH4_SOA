@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_vscode_tim\\OrderManagementService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|d:\\c_vscode_tim\\ordermanagementservice\\ordermanagementservice\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|solutionrelative:ordermanagementservice\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|d:\\c_vscode_tim\\ordermanagementservice\\ordermanagementservice\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|solutionrelative:ordermanagementservice\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|d:\\c_vscode_tim\\ordermanagementservice\\ordermanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|solutionrelative:ordermanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|d:\\c_vscode_tim\\ordermanagementservice\\ordermanagementservice\\services\\productserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|solutionrelative:ordermanagementservice\\services\\productserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|d:\\c_vscode_tim\\ordermanagementservice\\ordermanagementservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|solutionrelative:ordermanagementservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|d:\\c_vscode_tim\\ordermanagementservice\\ordermanagementservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|solutionrelative:ordermanagementservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|d:\\c_vscode_tim\\ordermanagementservice\\ordermanagementservice\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|solutionrelative:ordermanagementservice\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|d:\\c_vscode_tim\\ordermanagementservice\\ordermanagementservice\\dtos\\createorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|solutionrelative:ordermanagementservice\\dtos\\createorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|d:\\c_vscode_tim\\ordermanagementservice\\ordermanagementservice\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|solutionrelative:ordermanagementservice\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|d:\\c_vscode_tim\\ordermanagementservice\\ordermanagementservice\\dtos\\updateorderstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|solutionrelative:ordermanagementservice\\dtos\\updateorderstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|d:\\c_vscode_tim\\ordermanagementservice\\ordermanagementservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|solutionrelative:ordermanagementservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|d:\\c_vscode_tim\\ordermanagementservice\\ordermanagementservice\\ordermanagementservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85B2EA8B-0E7C-441C-8C08-5AE0972B98AE}|OrderManagementService\\OrderManagementService.csproj|solutionrelative:ordermanagementservice\\ordermanagementservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateOrderItemDto.cs",
+              "DocumentMoniker": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\DTOs\\CreateOrderItemDto.cs",
+              "RelativeDocumentMoniker": "OrderManagementService\\DTOs\\CreateOrderItemDto.cs",
+              "ToolTip": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\DTOs\\CreateOrderItemDto.cs",
+              "RelativeToolTip": "OrderManagementService\\DTOs\\CreateOrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T15:47:11.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDbContext.cs",
+              "DocumentMoniker": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\Data\\OrderDbContext.cs",
+              "RelativeDocumentMoniker": "OrderManagementService\\Data\\OrderDbContext.cs",
+              "ToolTip": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\Data\\OrderDbContext.cs",
+              "RelativeToolTip": "OrderManagementService\\Data\\OrderDbContext.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwE4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T15:45:45.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductServiceClient.cs",
+              "DocumentMoniker": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\Services\\ProductServiceClient.cs",
+              "RelativeDocumentMoniker": "OrderManagementService\\Services\\ProductServiceClient.cs",
+              "ToolTip": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\Services\\ProductServiceClient.cs",
+              "RelativeToolTip": "OrderManagementService\\Services\\ProductServiceClient.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T15:47:45.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderManagementService\\Program.cs",
+              "ToolTip": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\Program.cs",
+              "RelativeToolTip": "OrderManagementService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T15:53:53.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrderManagementService\\Models\\OrderItem.cs",
+              "ToolTip": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\Models\\OrderItem.cs",
+              "RelativeToolTip": "OrderManagementService\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T15:46:34.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\DTOs\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "OrderManagementService\\DTOs\\CreateOrderDto.cs",
+              "ToolTip": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\DTOs\\CreateOrderDto.cs",
+              "RelativeToolTip": "OrderManagementService\\DTOs\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T15:46:59.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItemsController.cs",
+              "DocumentMoniker": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\Controllers\\OrderItemsController.cs",
+              "RelativeDocumentMoniker": "OrderManagementService\\Controllers\\OrderItemsController.cs",
+              "ToolTip": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\Controllers\\OrderItemsController.cs",
+              "RelativeToolTip": "OrderManagementService\\Controllers\\OrderItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T15:45:17.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrderManagementService\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrderManagementService\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAowFAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T15:45:01.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderManagementService\\appsettings.json",
+              "ToolTip": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\appsettings.json",
+              "RelativeToolTip": "OrderManagementService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-16T15:50:16.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateOrderStatusDto.cs",
+              "DocumentMoniker": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\DTOs\\UpdateOrderStatusDto.cs",
+              "RelativeDocumentMoniker": "OrderManagementService\\DTOs\\UpdateOrderStatusDto.cs",
+              "ToolTip": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\DTOs\\UpdateOrderStatusDto.cs",
+              "RelativeToolTip": "OrderManagementService\\DTOs\\UpdateOrderStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T15:47:24.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderManagementService\\Models\\Order.cs",
+              "ToolTip": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\Models\\Order.cs",
+              "RelativeToolTip": "OrderManagementService\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T15:46:22.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderManagementService",
+              "DocumentMoniker": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\OrderManagementService.csproj",
+              "RelativeDocumentMoniker": "OrderManagementService\\OrderManagementService.csproj",
+              "ToolTip": "D:\\C_vscode_tim\\OrderManagementService\\OrderManagementService\\OrderManagementService.csproj",
+              "RelativeToolTip": "OrderManagementService\\OrderManagementService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-16T15:42:15.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
